@@ -1,1 +1,0 @@
-const PRUEBA = "PRUEBA"
