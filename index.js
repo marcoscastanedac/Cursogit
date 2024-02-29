@@ -1,0 +1,1 @@
+VARIABLE1=1;
