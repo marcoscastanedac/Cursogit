@@ -7,5 +7,5 @@ Estos son los distintos videos para comenzar a interacturar con los distintos co
 05. ¿Cómo corregir el último commit? | git commit --amend | Curso GIT  https://www.youtube.com/watch?v=pB1-qsGIQk0
 06. ¿Cómo puedo ignorar archivos? | .gitignore | Curso GIT  https://www.youtube.com/watch?v=E7XPfaZqX6U&list=PLjhrQWpk919588Jso7QkevQyG_1L0vFNm&index=6
 07. ¿Cómo le indico a Git que deje de hacer elseguimiento de un archivo? | git rm | Curso GIT https://www.youtube.com/watch?v=ZdNMrcytO6Q&list=PLjhrQWpk919588Jso7QkevQyG_1L0vFNm&index=7
-8. 
+   
    
