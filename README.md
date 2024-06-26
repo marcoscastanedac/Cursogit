@@ -1,4 +1,4 @@
-Estos son los distintos videos para comenzar a interacturar con los distintos comandos que se utilizan en GIT y GITHUB
+Estos son los distintos videos para comenzar a interacturar con los distintos comandos que se utilizan en GIT y GITHUB OK
 
 01. Introducción e Instalación 📝📁 | Curso GIT https://www.youtube.com/watch?v=WRrhSSgoVAY 
 02. Inicializando repositorio 📁, creando y modificando archivos | git init | git status | Curso GIT https://www.youtube.com/watch?v=2ihOrIHcFvU
